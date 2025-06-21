@@ -38,4 +38,4 @@ python-dotenv  # opcional, mas recomendado para segurança
 git clone https://github.com/Ybt2/telegram_vinted_scrapper.git
 ```
 
-no codigo main.py, substituir o TOKEN pelo o do vosso BOT, e adicionar ids permitidos junto do nome da pessoa
+No codigo main.py, substituir o TOKEN pelo o do vosso BOT, e adicionar ids permitidos junto do nome da pessoa
