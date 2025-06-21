@@ -28,3 +28,14 @@ python-telegram-bot==20.7
 vinted-scraper>=2.4.0
 httpx>=0.23.0
 python-dotenv  # opcional, mas recomendado para segurança
+```
+
+---
+
+## Instalação
+
+```bash
+git clone https://github.com/Ybt2/telegram_vinted_scrapper.git
+```
+
+no codigo main.py, substituir o TOKEN pelo o do vosso BOT, e adicionar ids permitidos junto do nome da pessoa
