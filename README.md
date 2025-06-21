@@ -27,7 +27,6 @@ Um bot Telegram para pesquisa automática no Vinted, com permissões por utiliza
 python-telegram-bot==20.7
 vinted-scraper>=2.4.0
 httpx>=0.23.0
-python-dotenv  # opcional, mas recomendado para segurança
 ```
 
 ---
