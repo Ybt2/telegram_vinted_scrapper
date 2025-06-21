@@ -4,8 +4,8 @@ import vinted_scraper
 import re
 import time
 
-TOKEN = "7964305003:AAFaaXLBWkL4Gm2vbFQw1P4asyVkHVkh9nA" #Deve ser colocado o ID do BOT
-USER_IDS = {"Fred": 1499287034, "Chico": 6188292745, "Mário": 5139065584}  #Aqui pode colocar utilizadores que deseja usarem o seu BOT
+TOKEN = "" #Deve ser colocado o ID do BOT
+USER_IDS = {}  #Aqui pode colocar utilizadores que deseja usarem o seu BOT
 # "{Username}": {user_ID}
 
 def guardar_logs(mensagem, arquivo = 'logs.txt'):
