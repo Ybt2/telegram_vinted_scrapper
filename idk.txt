@@ -1,0 +1,13 @@
+start cmd /k "python server.py"
+start cmd /k "python main.py"
+
+TOKEN = "7964305003:AAFaaXLBWkL4Gm2vbFQw1P4asyVkHVkh9nA"
+USER_ID = 1499287034  # Substitua pelo seu ID real
+
+#print(f"\nItem {idx}:")
+                #print(f"Título: {item.title}")
+                #print(f"Preço: {item.price}")
+                #print(f"Descrição: {item.description}")
+                #print(f"Link do item: {item.url}")
+
+USER_IDS = {"Fred": 1499287034, "Chico": 6188292745, "Mário": 5139065584}  # Substitua pelos IDs reais
