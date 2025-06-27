@@ -8,9 +8,9 @@ Um bot Telegram para pesquisa automática no Vinted, com permissões por utiliza
 
 - Comando `/vinted <termo>`: pesquisa no [Vinted.pt](https://www.vinted.pt) pelo termo indicado (ex.: `jnco jeans`).
 - Envia, por item encontrado:
-  - Foto (caso disponível)
+  - Foto
   - Título, preço, marca, localização, estado e descrição curta
-  - Botão inline com link direto para o Vinted
+  - Botão com link direto para o Vinted
 
 - **Restrito a utilizadores autorizados** (ids configuráveis).
 - Logging de atividade num ficheiro `logs.txt`
